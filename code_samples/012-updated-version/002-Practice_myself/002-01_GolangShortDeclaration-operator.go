@@ -9,7 +9,7 @@ func main() {
 	x = 99
 	fmt.Println(x)
 
-	y = 100 + 23
+	y := 100 + 23
 	fmt.Println(y)
 
 }
