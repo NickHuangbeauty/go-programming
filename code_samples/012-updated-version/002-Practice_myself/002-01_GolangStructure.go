@@ -7,6 +7,8 @@ func main() {
 	// 1. Sequence
 	// 2. for loop; iterative
 	// 3. conditions
+
+	// This is test fmt Println()
 	fmt.Println("This is my first time to learn GOlang")
 
 	foo()
